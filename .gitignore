@@ -1,0 +1,7 @@
+# IntelliJ IDEA specific files
+.idea/
+*.iml
+
+# Ignore Maven wrapper files (if any)
+mvnw
+mvnw.cmd
